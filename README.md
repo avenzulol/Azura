@@ -3,7 +3,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Description
-Azura is a free open-source Minecraft Anti-Cheat plugin designed to provide server owners with reliable and efficient tools to detect and prevent cheating. Built with performance and accuracy in mind, this plugin helps maintain a fair and competitive gaming environment.
+Azura is a free open-source Minecraft Anti-Cheat plugin designed to provide server owners with reliable and efficient tools to detect and prevent cheating. Please note that this will raise false flags, as I was completly baked while coding this...
 
 ---
 
