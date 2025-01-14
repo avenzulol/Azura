@@ -53,6 +53,11 @@ This project is licensed under the **[Creative Commons Attribution-NonCommercial
 Developed by avenzu.
 Special thanks to contributors and testers for their invaluable support.
 
+- @SkidRevenant (For the amazing base!)
+- @Hexze (For words of encouragement)
+- @NilsRaccoon (For showing support)
+- And the rest of the people in The Tide for being there
+
 ---
 
 ## Support
