@@ -26,8 +26,17 @@ Azura is a free open-source Minecraft Anti-Cheat plugin designed to provide serv
 ## Usage
 - Once installed, Azura will automatically monitor and detect suspicious player activity.
 - Use the following commands to manage the plugin:
-  - `/azura autoban enable` - Enables the anti-cheat autoban system.
-  - `/azura autoban disable` - Disables the anti-cheat autoban system.
+  - `/azura autoban true` - Enables the anti-cheat autoban system.
+  - `/azura autoban false` - Disables the anti-cheat autoban system.
+ 
+  - `/staffmode` - Opens the staff mode inventory.
+  - `/vanish` - Vanish yourself to hide while spectating players.
+  - `/mute <player>` - Mutes a player.
+  - `/unmute <player>` - Unmutes a player.
+  - `/ban <player> <reason>` - Bans a player from the server.
+  - `/unban <player>` - Unbans a player from the server.
+ 
+  - `/report <player>` - Report other players for breaking the server rules.
 
 ---
 
